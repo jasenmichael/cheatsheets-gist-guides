@@ -2,7 +2,6 @@
 
 #### this method can be used to push your project to a service like GoDaddy, HostGator, or BlueHost that is running git.
 
-
 - create a remote repository on your server
 
   - ssh into the server
