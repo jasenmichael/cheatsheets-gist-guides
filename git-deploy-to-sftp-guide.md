@@ -1,4 +1,4 @@
-# Guide to use git to deploy via sftp
+# git to deploy via sftp
 
 #### this method can be used to push your project to a service like GoDaddy, HostGator, or BlueHost that is running git.
 
