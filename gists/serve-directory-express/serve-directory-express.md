@@ -1,4 +1,4 @@
-#### Server a directory with express
+#### Serve a directory with express
 
 ###### An simple way to host the client in a separate directory using node express
 
