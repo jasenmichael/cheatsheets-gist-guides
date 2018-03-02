@@ -9,3 +9,5 @@
 ### [Serve a directory with node-express](https://gist.github.com/jasenmichael/6a0b7d03d38f67c772f1e15a073e0645)
 
 ### [Fetch Get/Post Examples](https://gist.github.com/jasenmichael/405e318989ca5ec23463c9caa2271af3#file-fetch-get-post-examples-md)
+
+### [JavaScript Object Constructors](https://gist.github.com/jasenmichael/1bcb88fc6ad366fc1158f6adec6c3c2a)
